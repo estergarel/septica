@@ -6,8 +6,6 @@ This project implements a simplified version of the card game "Septica" for two 
 
 "Septica" is a popular card game in Romania, and this implementation allows two players to compete in a simplified version. The goal of the game is to collect as many points as possible by matching cards with the same values.
 
-<video src="https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea" poster="github.com/estergarel/septica/main/thumbnail.png">
-
 ## Features
 
 - Shuffling a deck of cards
@@ -37,3 +35,5 @@ This project utilizes various programming techniques, including:
 3. Open MATLAB and navigate to the project folder.
 4. Run the main game file using the command:
    `run('septica.m')`
+
+<video src="https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea" poster="github.com/estergarel/septica/main/thumbnail.png">
