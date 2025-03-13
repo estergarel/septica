@@ -36,4 +36,4 @@ This project utilizes various programming techniques, including:
 4. Run the main game file using the command:
    `run('septica.m')`
 
-<video src="https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea" poster="github.com/estergarel/septica/main/thumbnail.png">
+<video src="https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea" poster="github.com/estergarel/septica/main/thumbnail.png](https://github.com/user-attachments/assets/a204d014-dd35-44b5-9d32-b1d66bc8021d">
