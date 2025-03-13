@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea
+
 # Septica - Card Game in MATLAB
 
 This project implements a simplified version of the card game "Septica" for two players in MATLAB.
@@ -6,7 +10,7 @@ This project implements a simplified version of the card game "Septica" for two 
 
 "Septica" is a popular card game in Romania, and this implementation allows two players to compete in a simplified version. The goal of the game is to collect as many points as possible by matching cards with the same values.
 
-[![Watch the video](https://raw.githubusercontent.com/estergarel/septica/main/thumbnail.png)](https://raw.githubusercontent.com/estergarel/septica/main/presentation.mp4)
+<video src="https://github.com/user-attachments/assets/51935fe7-e5c5-47f9-b3e9-545c61f7bcea">
 
 ## Features
 
